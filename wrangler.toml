@@ -1,4 +1,4 @@
-name = "starbin"
+name = "paste"
 type = "webpack"
 account_id = "884ed4928e66a3bdf71e3ed9b4be842a"
 workers_dev = false
