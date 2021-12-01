@@ -76,7 +76,7 @@ async function postDocuments(request) {
 
   const json = {
     key: id,
-    url: `https://starb.in/${id}`,
+    url: `https://paste.youhavetrouble.me/${id}`,
   };
   const headers = {
     "Content-Type": "application/json; charset=UTF-8",
