@@ -1,8 +1,8 @@
 name = "starbin"
 type = "webpack"
-account_id = "6e8f81ce0e8ba25c184fa66b5fea3ac1"
+account_id = "884ed4928e66a3bdf71e3ed9b4be842a"
 workers_dev = false
-zone_id = "e8f61d23932aca701b7b4d904f039df5"
+zone_id = "73bfaa5a503f36239010e58bf5a197fe"
 
 routes = [
   "https://paste.youhavetrouble.me/raw*",
